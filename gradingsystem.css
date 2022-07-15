@@ -1,0 +1,121 @@
+.body {
+    background-color: #35858b;
+}
+
+.firstdiv {
+    border: 1px solid black;
+    height: 320px;
+    width: 340px;
+    margin: auto;
+    margin-top: 120px;
+    background-color: #072227;
+    padding: 30px;
+    border-radius: 50px;
+}
+
+.gradingsystem {
+    color: #4fbdba;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.exams {
+    color: #4fbdba;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.examsbutton {
+    height: 30px;
+    width: 190px;
+    background-color: #aefeff;
+    color: #072227;
+    padding: 3px;
+    font-size: 18px;
+    margin-left: 45px;
+    margin-bottom: 15px;
+}
+
+.cas {
+    color: #4fbdba;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.casbutton {
+    height: 30px;
+    width: 190px;
+    background-color: #aefeff;
+    color: #072227;
+    padding: 3px;
+    font-size: 18px;
+    margin-left: 60px;
+    margin-bottom: 15px;
+}
+
+.totals {
+    color: #4fbdba;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.totalsbutton {
+    height: 30px;
+    width: 190px;
+    background-color: #aefeff;
+    color: #072227;
+    padding: 3px;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.status {
+    color: #4fbdba;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.statusbutton {
+    height: 30px;
+    width: 190px;
+    background-color: #aefeff;
+    color: #072227;
+    padding: 3px;
+    font-size: 18px;
+    margin-left: 90px;
+    margin-bottom: 15px;
+}
+
+.grade {
+    color: #4fbdba;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.gradebutton {
+    height: 30px;
+    width: 190px;
+    background-color: #aefeff;
+    color: #072227;
+    padding: 3px;
+    font-size: 18px;
+    margin-left: 90px;
+    margin-bottom: 15px;
+}
+
+.submit {
+    height: 30px;
+    width: 150px;
+    background-color: #aefeff;
+    color: #072227;
+    padding: 3px;
+    font-size: 18px;
+    border-radius: 20px;
+    margin-left: 160px;
+    margin-top: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
